@@ -25,6 +25,8 @@ Todas as respostas devem ser apresentadas com uma casa decimal. As mensagens dev
 impressas conforme a descrição do problema. Não esqueça de imprimir o enter após o final
 de cada linha, caso contrário obterá "Presentation Error".
 
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
+
 --
 a, b, c, d = map(float, input().strip().split())
 a = a * 2
