@@ -20,6 +20,8 @@ A entrada contém três valores reais.
 Saída
 O resultado deve ser apresentado com uma casa decimal.
 
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1043
+
 --
 a, b, c = map(float, input().strip().split())
 p = (a + b + c) / 2
